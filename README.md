@@ -11,7 +11,7 @@ In this notebook, we will analyze datasets containing news articles to highlight
 
 Our hypothesis is that fake news is more decisive and evokes stronger responses, since the goal of fake news is not to just spread misinformation, but to polarize readers into being outraged. Therefore, we expect the specific words in the titles to be drastically different between reliable and unreliable news articles. 
 
-Data set from Kaggle: [https://www.kaggle.com/c/fake-news/data] (https://www.kaggle.com/c/fakenews/data)
+Data set from Kaggle: [https://www.kaggle.com/c/fake-news/data](https://www.kaggle.com/c/fakenews/data)
 
 ## Set Up
 Requires Jupyter Notebook to run.
